@@ -1,0 +1,10 @@
+This window can be used to search for library books.
+
+If no field are filled, all books owned by the library 
+are returned as search results.
+
+For a more filtered search, use one or more text field.
+Note : The search parameter must exctly match the attributes 
+defined in the book.
+
+Use cancel/done to exit.

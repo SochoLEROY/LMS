@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="500.0" prefWidth="1000.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.student.StudBookViewController">
+   <children>
+      <TableView fx:id="bookTable" layoutY="99.0" prefHeight="200.0" prefWidth="962.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+        <columns>
+          <TableColumn fx:id="libidCol" minWidth="100.0" prefWidth="100.0" text="Lib Id" />
+          <TableColumn fx:id="isbnCol" minWidth="100.0" prefWidth="100.0" text="ISBN" />
+            <TableColumn fx:id="titleCol" minWidth="300.0" prefWidth="75.0" text="Title" />
+            <TableColumn fx:id="authorCol" minWidth="125.0" prefWidth="125.0" text="Author" />
+            <TableColumn fx:id="categoryCol" minWidth="100.0" prefWidth="100.0" text="Category" />
+            <TableColumn fx:id="publisherCol" minWidth="125.0" prefWidth="125.0" text="Publisher" />
+            <TableColumn fx:id="yearCol" minWidth="50.0" prefWidth="50.0" text="Year" />
+            <TableColumn fx:id="statusCol" minWidth="100.0" prefWidth="100.0" text="Status" />
+        </columns>
+      </TableView>
+      <Label layoutX="-1.0" prefHeight="80.0" prefWidth="1006.0" stylesheets="@headerStyleSheet.css" text="                                            Book Availability ">
+         <font>
+            <Font name="Times New Roman Bold Italic" size="36.0" />
+         </font>
+      </Label>
+      <Button layoutX="471.0" layoutY="354.0" mnemonicParsing="false" onAction="#handleDone" stylesheets="@buttonStyleSheet.css" text="Done" />
+      <Button layoutX="471.0" layoutY="413.0" mnemonicParsing="false" onAction="#handleHelp" stylesheets="@buttonStyleSheet.css" text="Help" />
+   </children>
+</AnchorPane>

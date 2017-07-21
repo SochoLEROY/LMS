@@ -1,0 +1,10 @@
+This window can be used to view Dues related to each of the books.
+
+This window shows dues only for books that have aready been returned.
+
+if you have any book issued that is already overdue, return it get
+your total dues updated.
+
+All dues must be paid at the end of the semester.
+
+In case of any discrepancies, report to the library admin.

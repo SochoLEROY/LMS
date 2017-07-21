@@ -1,0 +1,9 @@
+All the fields are necessary to be filled.
+The book cannot be added even if one of them is unknown.
+The text in all fields should start with capital letters.
+
+Lib id identifies each of book (even different copies of the same book) uniquely.
+Lib id is an extension of the ISBN number.
+
+Click on add button after filling all the details.
+Click on cancel button to cancel the addition.

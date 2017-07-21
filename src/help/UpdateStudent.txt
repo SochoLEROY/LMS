@@ -1,0 +1,12 @@
+This window can be used by the admin to check student details
+and also update it if necessary.
+
+All field show the current details of the student,
+when the window first loads
+
+All field are editable.
+Note: Edit the Reg No field only if a mistake was
+	   committed while creating a student account.
+
+Once editing of student details is complete,
+Click on update button.

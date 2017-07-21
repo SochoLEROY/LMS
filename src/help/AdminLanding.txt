@@ -1,0 +1,17 @@
+Admin has access to all functionalities listed on this window.
+
+Add Book - Used for adding new books to the library database.
+
+Delete Book - Used for deleting book from the library database.
+
+Check Availability - Used to get a list of books and their status - Available or Issued.
+
+Clear Dues - Clear due amount for a Student.
+
+Accept Return - Accept return of the books issued to a Student.
+
+Create Student Account - Create new library accounts for Students
+
+Check/Update Student Accounts - Used for checking student details and updating if required.
+
+Logout - Use this Button to logout of your account.

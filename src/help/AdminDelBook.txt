@@ -1,0 +1,7 @@
+Enter the lib id of the book given at the end of it.
+
+Check teh lib id of the book before deleting it as a 
+book if deleted by mistake can only be added using teh add book feature 
+(for which correct lib id must be known).
+
+Click on delete to delete the book from the database.
