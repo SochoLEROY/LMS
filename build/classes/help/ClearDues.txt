@@ -1,0 +1,11 @@
+This window can be used for clearing dues amount for a student.
+
+Enter the registration number of the student carefully.
+Reg no means the registration number of the student 
+provided by the college.
+
+If dues are cleared for incoreect registration number,
+the dues can be edited using teh update details functionality
+on admin landing page.
+Note: Clearing dues also clears the due records. This
+      cannot be undone or edited by the admin.

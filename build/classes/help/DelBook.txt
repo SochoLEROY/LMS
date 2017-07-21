@@ -1,0 +1,5 @@
+This window is a final confirmation window 
+before a book is deleted.
+
+Check the details of the book to be deleted.
+Then press Delete button to confirm deletion.

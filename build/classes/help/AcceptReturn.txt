@@ -1,0 +1,10 @@
+This window can be used by the admin to accept return 
+of books borrowed by a student.
+
+Reg no means the registration number of the student provided by the college 
+and lib id is the library Id of the book given at the end of the book 
+and the return date is the date on which the book is being reuturned to the 
+library.
+Note: The format given in the bracket must be strictly followed.
+
+A prompt will be shown with due amount, only if the book was over due.

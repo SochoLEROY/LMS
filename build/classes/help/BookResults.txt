@@ -1,0 +1,8 @@
+This window displays the search results of 
+the book search function.
+
+If the table shows "No content to display",
+it means that there were no matching search
+results based on parameters entered by you.
+
+Click on done to exit.

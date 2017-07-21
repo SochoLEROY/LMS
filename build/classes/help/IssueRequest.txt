@@ -1,0 +1,14 @@
+This window is used for issuing a book from the library.
+
+Fill the Lib id in the given text field.
+
+Fill the library card at the end of the book and submit to librarian.
+
+Any student may only issue two books at a time.
+
+The book must be returned with 14 days from the date of issue,
+otherwise a fine of Rs 1/day is imposed.
+
+Terms of issue may be changed without prior notice.
+
+In case of any problems, contact the librarian.

@@ -1,0 +1,9 @@
+This window lists the functionalities available to the student.
+
+Search Book - Use this to search for a book in the library.
+
+Check dues - Use this to check your dues from previously returned books.
+
+Request Issue - Use this to issue an available book from the library.
+
+Logout - Press this button to logout from your account.

@@ -1,0 +1,10 @@
+This window can be used by the admin to create new student accounts.
+
+Name field is for the full name of the student. 
+This field must be capitalized.
+
+Reg no means the registration number of the student provided by the 
+College and the user id is the id choosen by the student to log in to the system.
+
+Click on create to create the student account and then go to 
+update student account to update the details.

@@ -1,0 +1,9 @@
+This window can be used by the admin to check student details
+and also update it if necessary.
+
+Use This function in case a mistake was committed during creation
+of student account or any previous update of student details.
+
+Reg no means the registration number of the student provided by the College.
+
+Click on update after entering the Reg no of the student.
